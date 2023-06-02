@@ -23,6 +23,12 @@ src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="293" />
 
+#### Последние публикации
+
+| Название | Дата публикации |
+| ----- | ------------ |
+| [Bulk request Google search indexing with API](https://rednafi.com/javascript/bulk_request_google_search_index/) | Fri, 26 May 2023 |
+
 📊 **На этой неделе я потратил время на:**
 <!--START_SECTION:waka-->
 
