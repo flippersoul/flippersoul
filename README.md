@@ -40,22 +40,6 @@ src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br />
-<br />
-
-📊 **На этой неделе я потратил время:**
-<!--START_SECTION:waka-->
-
-```txt
-Python       7 часов 9 минут    █████████████████░   96.62 %
-MySQL        6 минут            ▒░░░░░░░░░░░░░░░░░   01.38 %
-JavaScript   4 минуты           ▒░░░░░░░░░░░░░░░░░   00.90 %
-CSS          3 минуты           ▒░░░░░░░░░░░░░░░░░   00.75 %
-Другое       1 минута           ░░░░░░░░░░░░░░░░░░   00.34 %
-```
-
-<!--END_SECTION:waka-->
-
 📈 Моя статистика на GitHub
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=flippersoul&show_icons=true&theme=gotham" alt="flippersoul's stat's" />
