@@ -13,10 +13,6 @@ src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
       <img align="left" alt="Pavel's VK" width="22px"
 src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />
 </a>
-<a href="https://vk.com/sergeevmaximus" target="_blank">
-      <img align="left" alt="Pavel's VK" width="22px"
-src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />
-</a>
 
 <br />
 <br />
