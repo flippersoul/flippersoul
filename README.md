@@ -89,12 +89,6 @@ API          30 минут   █░░░░░░░░░   05.56 %
 - 1  [telegram](https://t.me/ricardosql) :)
 - 1  [telegram](https://t.me/ricardosql) :)
 
-<br />
-<br />
-
-- 💼 Есть работа?! Мой [telegram](https://t.me/ricardosql) :)
-- 💬 Если нужна помощь, пиши;
-
 **Языки и технологии:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -103,6 +97,12 @@ API          30 минут   █░░░░░░░░░   05.56 %
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br />
+<br />
+
+- 💼 Есть работа?! Мой [telegram](https://t.me/ricardosql) :)
+- 💬 Если нужна помощь, пиши;
 
 📈 Моя статистика на GitHub
 
