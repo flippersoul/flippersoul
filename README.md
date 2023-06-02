@@ -26,7 +26,7 @@ src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />
 Я также поддерживаю разработку с открытым исходным кодом. Я многому научился у сообщества разработчиков с открытым исходным кодом, и мне нравится, как происходит сотрудничество и обмен знаниями с помощью open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="auto" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="320" />
   
 - 💼 Есть работа?! Мой [telegram](https://t.me/ricardosql) :)
 - 💬 Если нужна помощь, пиши;
