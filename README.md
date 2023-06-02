@@ -21,7 +21,7 @@ src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />
 
 Я также поддерживаю разработку с открытым исходным кодом. Я многому научился у сообщества разработчиков с открытым исходным кодом, и мне нравится, как происходит сотрудничество и обмен знаниями с помощью open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="328" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="322" />
 
 📊 **На этой неделе я потратил время на:**
 <!--START_SECTION:waka-->
