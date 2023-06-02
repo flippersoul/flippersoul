@@ -27,7 +27,51 @@ src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />
 
 <br />
 <br />
-  
+
+### Мои проекты
+
+**Верстка:** 
+
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+
+**JavaScript:** 
+
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+
+**Python:** 
+
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+- 1  [telegram](https://t.me/ricardosql) :)
+
+<br />
+<br />
+
 - 💼 Есть работа?! Мой [telegram](https://t.me/ricardosql) :)
 - 💬 Если нужна помощь, пиши;
 
