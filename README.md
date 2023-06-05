@@ -62,6 +62,7 @@ API          30 минут   █░░░░░░░░░   05.56 %
 **JavaScript:** 
 
 - 1 - Dashboard на React/NodeJS/PostgreSQL (В разработке) - [Dashboard](https://github.com/flippersoul/dashboard) 
+- 2 - Аналог Delivery Club на JS с Корзиной, Карточками товаров, Авторизацией и Cookie - [Delivery Food](https://github.com/flippersoul/delivery-food) 
 
 **Python:** 
 
