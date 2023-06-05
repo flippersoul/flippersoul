@@ -46,19 +46,6 @@ API          30 минут   █░░░░░░░░░   05.56 %
 
 ### Мои проекты
 
-**Верстка:** 
-
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-- 1  [telegram](https://t.me/ricardosql) :)
-
 **JavaScript:** 
 
 - 1 - Dashboard на React/NodeJS/PostgreSQL (В разработке) - [Dashboard](https://github.com/flippersoul/dashboard) 
