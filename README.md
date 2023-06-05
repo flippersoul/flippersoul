@@ -74,7 +74,7 @@ API          30 минут   █░░░░░░░░░   05.56 %
 
 **Python:** 
 
-- 1  [telegram](https://t.me/ricardosql) :)
+- 1  ПО для поиска по ключевым словам и аналитики полученных данных - [Flipper v.1.4](https://github.com/flippersoul/flipper) :)
 - 1  [telegram](https://t.me/ricardosql) :)
 - 1  [telegram](https://t.me/ricardosql) :)
 - 1  [telegram](https://t.me/ricardosql) :)
