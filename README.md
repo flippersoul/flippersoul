@@ -74,8 +74,8 @@ API          30 минут   █░░░░░░░░░   05.56 %
 
 **Python:** 
 
-- 1  ПО для поиска по ключевым словам и аналитики полученных данных - [Flipper v.1.4](https://github.com/flippersoul/flipper) :)
-- 1  [telegram](https://t.me/ricardosql) :)
+- 1  ПО для поиска по ключевым словам и аналитики полученных данных - [Flipper v.1.4](https://github.com/flippersoul/flipper)
+- 2  Консольное приложение для экспорта контактов и чатов пользователей по введенному номеру телефона - [Telegram Export v.1.0](https://github.com/flippersoul/telegram_export)
 - 1  [telegram](https://t.me/ricardosql) :)
 - 1  [telegram](https://t.me/ricardosql) :)
 - 1  [telegram](https://t.me/ricardosql) :)
