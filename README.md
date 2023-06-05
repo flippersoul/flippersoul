@@ -61,12 +61,12 @@ API          30 минут   █░░░░░░░░░   05.56 %
 
 **JavaScript:** 
 
-- 1)  Dashboard на React/NodeJS/PostgreSQL (В разработке) - [Dashboard](https://github.com/flippersoul/dashboard) 
+- 1  Dashboard на React/NodeJS/PostgreSQL (В разработке) - [Dashboard](https://github.com/flippersoul/dashboard) 
 
 **Python:** 
 
-- 1)  ПО для поиска по ключевым словам и аналитики полученных данных - [Flipper v.1.4](https://github.com/flippersoul/flipper)
-- 2)  Консольное приложение для экспорта контактов - [Telegram Export v.1.0](https://github.com/flippersoul/telegram_export)
+- 1  ПО для поиска по ключевым словам и аналитики полученных данных - [Flipper v.1.4](https://github.com/flippersoul/flipper)
+- 2  Консольное приложение для экспорта контактов - [Telegram Export v.1.0](https://github.com/flippersoul/telegram_export)
 
 
 **Языки и технологии:**  
