@@ -64,6 +64,7 @@ API          30 минут   █░░░░░░░░░   05.56 %
 - 1 - Dashboard на React/NodeJS/PostgreSQL (В разработке) - [Dashboard](https://github.com/flippersoul/dashboard) 
 - 2 - Адаптивный аналог Delivery Club на JS с Корзиной, Карточками товаров, Авторизацией и Cookie - [Delivery Food](https://github.com/flippersoul/delivery-food)
 - 3 - Адаптивный калькулятор расходов на JS - [MoneyCalc](https://github.com/flippersoul/moneyCalc) 
+- 4 - Адаптивный аналог Aviasales на JS - [Aviasales](https://github.com/flippersoul/aviasales)
 
 **Python:** 
 
